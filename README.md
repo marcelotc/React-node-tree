@@ -11,3 +11,8 @@ https://react-node-tree.vercel.app/
 - [] Edit a node
 - [] Customise tree view (Line color, line width, gutters)
 - [] Mode child nodes to left or right
+
+
+<p align="center">
+    <img src="tree.png">
+</p>
