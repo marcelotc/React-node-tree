@@ -13,6 +13,7 @@ https://react-node-tree.vercel.app/
 - [] Mode child nodes to left or right
 
 
+DEMO: https://react-node-tree.vercel.app/
 <p align="center">
     <img src="tree.png">
 </p>
